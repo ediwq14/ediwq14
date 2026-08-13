@@ -1,9 +1,8 @@
 <div align="center">
 
-  <!-- ANIMOWANY KOT NA GÓRZE -->
-<img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/cat.gif" width="100" />
+  <!-- PIXEL CAT AT THE TOP -->
+  <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/cat.gif" width="100" />
 
-  <!-- ELEGANCKI NAGŁÓWEK -->
   <!-- ELEGANCKI NAGŁÓWEK -->
   <h1>Hi there, I'm ediwq14 🐾</h1>
   <p><b>Android ROM/Kernel Developer & Linux Enthusiast</b></p>
@@ -61,9 +60,9 @@
 
 <br />
 
-<!-- STOPKA Z ANIMACJĄ KOTA -->
+<!-- STOPKA Z PIXEL ART KOTEM -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1MncxNXFjZmw2czZveXZyZWdpbHRrdHhxdndvNDdrZXpxcGx5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJdoOOeomA0/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="100" />
   <br />
   <sub>Built from source ⚙️ | Powered by coffee & cats 🐾</sub>
 </div>
