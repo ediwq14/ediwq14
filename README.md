@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- PIXEL CAT AT THE TOP -->
-  <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/cat.gif" width="100" />
+  <!-- ANIMOWANY KOT SVG (100% DZIAŁA NA GITHUBIE) -->
+  <img src="https://raw.githubusercontent.com/ABSINTH33/ABSINTH33/main/assets/cat.gif" width="150" alt="Pixel Cat Animation" />
 
   <!-- ELEGANCKI NAGŁÓWEK -->
   <h1>Hi there, I'm ediwq14 🐾</h1>
@@ -60,9 +60,7 @@
 
 <br />
 
-<!-- STOPKA Z PIXEL ART KOTEM -->
+<!-- STOPKA -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="100" />
-  <br />
   <sub>Built from source ⚙️ | Powered by coffee & cats 🐾</sub>
 </div>
