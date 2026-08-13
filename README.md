@@ -1,7 +1,10 @@
 <div align="center">
 
+  <!-- ANIMOWANY KOT NA GÓRZE -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI5dW54dzdyNG0xZ2R6b3p1Zm9yeWRxM3M3MjBqZjRzNXp6bWtwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="140" />
+
   <!-- ELEGANCKI NAGŁÓWEK -->
-  <h1>Hi there, I'm ediwq14 👋</h1>
+  <h1>Hi there, I'm ediwq14 🐾</h1>
   <p><b>Android ROM/Kernel Developer & Linux Enthusiast</b></p>
 
   <p>
@@ -10,9 +13,6 @@
   </p>
 
 </div>
-
-<!-- ANIMOWANA LINIA PODZIAŁU -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-8f2e-1e041f3e10a4.gif" width="100%" />
 
 <br />
 
@@ -34,10 +34,7 @@
 
 <br />
 
-<!-- ANIMOWANA LINIA PODZIAŁU -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-8f2e-1e041f3e10a4.gif" width="100%" />
-
-<br />
+---
 
 ### 🛠️ Tech Stack & OS Environment
 
@@ -63,9 +60,9 @@
 
 <br />
 
-<!-- STOPKA Z ANIMACJĄ -->
+<!-- STOPKA Z ANIMACJĄ KOTA -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUGG4dbv5BLPP4PP/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1MncxNXFjZmw2czZveXZyZWdpbHRrdHhxdndvNDdrZXpxcGx5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJdoOOeomA0/giphy.gif" width="160" />
   <br />
-  <sub>Built from source ⚙️ | Thanks for stopping by!</sub>
+  <sub>Built from source ⚙️ | Powered by coffee & cats 🐾</sub>
 </div>
