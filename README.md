@@ -54,12 +54,12 @@
 <div align="center">
   <h3>📊 GitHub Activity</h3>
 
-  <!-- Podmień 'TWOJ_DOKLADNY_NICK' na swój login na GitHubie -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TWOJ_DOKLADNY_NICK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_DOKLADNY_NICK&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <!-- Statystyki + Języki -->
+  <img height="165" src="https://github-readme-stats-two.vercel.app/api?username=ediwq14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=ediwq14&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 
   <br /><br />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TWOJ_DOKLADNY_NICK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archikarol&theme=tokyonight&hide_border=true" />
 </div>
