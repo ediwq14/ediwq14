@@ -54,12 +54,12 @@
 <div align="center">
   <h3>📊 GitHub Activity</h3>
 
-  <!-- Statystyki + Języki -->
-  <img height="165" src="https://github-readme-stats-two.vercel.app/api?username=ediwq14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=ediwq14&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <!-- Statystyki i najczęściej używane języki -->
+  <img height="165" src="https://github-readme-stats-two.vercel.app/api?username=ediwq14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=ediwq14&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 
   <br /><br />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archikarol&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ediwq14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
