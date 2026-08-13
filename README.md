@@ -1,10 +1,14 @@
 <div align="center">
 
-  <!-- ANIMOWANY KOT SVG (100% DZIAŁA NA GITHUBIE) -->
-  <img src="https://raw.githubusercontent.com/ABSINTH33/ABSINTH33/main/assets/cat.gif" width="150" alt="Pixel Cat Animation" />
+  <!-- PIXEL ART CAT HEADER -->
+  <pre style="font-family: monospace;">
+       /\_/\  
+      ( o.o )  
+       > ^ <
+  </pre>
 
   <!-- ELEGANCKI NAGŁÓWEK -->
-  <h1>Hi there, I'm ediwq14 🐾</h1>
+  <h1>Hi there, I'm ediwq14 🐱</h1>
   <p><b>Android ROM/Kernel Developer & Linux Enthusiast</b></p>
 
   <p>
