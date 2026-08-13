@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ANIMOWANY KOT -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Cat_Typing.gif" width="160" alt="Cat Typing" />
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="150" alt="Pixel Cat GIF" />
 
   <!-- ELEGANCKI NAGŁÓWEK -->
   <h1>Hi there, I'm ediwq14 🐾</h1>
