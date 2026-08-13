@@ -1,14 +1,10 @@
 <div align="center">
 
-  <!-- PIXEL ART CAT HEADER -->
-  <pre style="font-family: monospace;">
-       /\_/\  
-      ( o.o )  
-       > ^ <
-  </pre>
+  <!-- ANIMOWANY KOT -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Cat_Typing.gif" width="160" alt="Cat Typing" />
 
   <!-- ELEGANCKI NAGŁÓWEK -->
-  <h1>Hi there, I'm ediwq14 🐱</h1>
+  <h1>Hi there, I'm ediwq14 🐾</h1>
   <p><b>Android ROM/Kernel Developer & Linux Enthusiast</b></p>
 
   <p>
