@@ -54,21 +54,12 @@
 <div align="center">
   <h3>📊 GitHub Activity</h3>
 
-  <!-- Podmień 'archikarol' jeśli używasz innego loginu -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ediwq14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archikarol&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <!-- Podmień 'TWOJ_DOKLADNY_NICK' na swój login na GitHubie -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TWOJ_DOKLADNY_NICK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_DOKLADNY_NICK&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 
   <br /><br />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archikarol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
----
-
-<!-- FOOTER -->
-<div align="center">
-  <sub>Built from source ⚙️ | Thanks for stopping by!</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TWOJ_DOKLADNY_NICK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
