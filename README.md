@@ -1,6 +1,6 @@
-<!-- ANIMATED HEADER (POPRAWIONA SZEROKOŚĆ) -->
+<!-- ANIMATED HEADER (Mniejszy rozmiar, brak ucinania) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Karol;Android+Kernel+%26+ROM+Developer;Official+crDroid+Maintainer+for+Nothing+Phone+(2);Arch+Linux+%26+Kernel+Tuning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I'm+Karol;crDroid+Maintainer+for+Nothing+Phone+(2);Android+Kernel+%26+ROM+Developer;Linux+%26+Low-Level+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br />
@@ -33,32 +33,28 @@
 
 ---
 
-<!-- ACTIVE MAINTAINERSHIP -->
+<!-- ACTIVE MAINTAINERSHIP & FEATURED REPOS -->
 <div align="center">
-  <h3>📱 Active Maintainership</h3>
+  <h3>📱 Active Maintainership & Repositories</h3>
   
-  <a href="https://crdroid.net/">
-    <img src="https://img.shields.io/badge/crDroid-Official_Maintainer-1E88E5?style=for-the-badge&logo=android&logoColor=white" />
+  <p>
+    <a href="https://crdroid.net/">
+      <img src="https://img.shields.io/badge/crDroid-Official_Maintainer-1E88E5?style=for-the-badge&logo=android&logoColor=white" />
+    </a>
+    <a href="https://github.com/crdroidandroid">
+      <img src="https://img.shields.io/badge/Device-Nothing_Phone_(2)-000000?style=for-the-badge&logo=nothing&logoColor=white" />
+    </a>
+  </p>
+
+  <br />
+
+  <!-- Karty bezpośrednich repozytoriów (nie padają jak statystyki) -->
+  <a href="https://github.com/crdroidandroid/android_device_nothing_Pong">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crdroidandroid&repo=android_device_nothing_Pong&theme=tokyonight&show_owner=true" />
   </a>
-  <a href="https://github.com/crdroidandroid">
-    <img src="https://img.shields.io/badge/Device-Nothing_Phone_(2)-000000?style=for-the-badge&logo=nothing&logoColor=white" />
+  <a href="https://github.com/crdroidandroid/android_kernel_nothing_sm8475">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crdroidandroid&repo=android_kernel_nothing_sm8475&theme=tokyonight&show_owner=true" />
   </a>
-</div>
-
-<br />
-
----
-
-<!-- GITHUB STATS (POPRAWIONY NICK: ediwq14) -->
-<div align="center">
-  <h3>📊 GitHub Activity</h3>
-
-  <img height="165" src="https://github-readme-stats-two.vercel.app/api?username=ediwq14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=ediwq14&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ediwq14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -67,5 +63,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <sub>Built from source ⚙️ | Thanks for stopping by!</sub>
+  <sub>Built with love | Thanks for stopping by!</sub>
 </div>
