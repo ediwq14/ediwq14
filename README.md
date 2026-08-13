@@ -1,6 +1,6 @@
-<!-- ANIMATED HEADER -->
+<!-- ANIMATED HEADER (POPRAWIONA SZEROKOŚĆ) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Ediwq14;Android+Kernel+%26+ROM+Developer;Official+crDroid+Maintainer+for+Nothing+Phone+(2);Arch+Linux+%26+Kernel+Tuning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Karol;Android+Kernel+%26+ROM+Developer;Official+crDroid+Maintainer+for+Nothing+Phone+(2);Arch+Linux+%26+Kernel+Tuning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br />
@@ -20,7 +20,6 @@
 <div align="center">
   <h3>🛠️ Tech Stack & OS Environment</h3>
 
-  <!-- Android & Linux Stack -->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -34,7 +33,7 @@
 
 ---
 
-<!-- FEATURED DEVICE / MAINTAINERSHIP -->
+<!-- ACTIVE MAINTAINERSHIP -->
 <div align="center">
   <h3>📱 Active Maintainership</h3>
   
@@ -50,16 +49,23 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS (POPRAWIONY NICK: ediwq14) -->
 <div align="center">
   <h3>📊 GitHub Activity</h3>
 
-  <!-- Statystyki i najczęściej używane języki -->
   <img height="165" src="https://github-readme-stats-two.vercel.app/api?username=ediwq14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=ediwq14&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 
   <br /><br />
 
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ediwq14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <sub>Built from source ⚙️ | Thanks for stopping by!</sub>
 </div>
