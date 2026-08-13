@@ -9,17 +9,30 @@
     <a href="https://github.com/crdroidandroid"><img src="https://img.shields.io/badge/Nothing_Phone_(2)-pong-000000?style=for-the-badge&logo=nothing&logoColor=white" /></a>
   </p>
 
+  <!-- LICZNIK ODWIEDZIN -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ediwq14&color=1E88E5&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </p>
+
 </div>
 
 <br />
 
 ### 🚀 About Me
 
-- 📱 **Android Developer**: Building custom ROMs and tuning kernels for Android devices.
+- 📱 **Android Developer**: Building custom ROMs, bringing up device trees, and tuning kernels.
 - 📱 **Official Maintainer**: Proud maintainer of **crDroid** for **Nothing Phone (2)** (`pong`).
-- 🐧 **Linux Enthusiast**: Deep diving into kernel schedulers, custom builds, and Arch Linux setups.
-- ⚙️ **Low-Level & OS**: Focused on source tree refactoring, device trees, FBE layers, and system performance.
-- 💬 **Get in touch**: Telegram / GitHub Issues
+- 🐧 **Linux Enthusiast**: Deep diving into kernel schedulers, custom desktop configurations, and Arch Linux setups.
+- ⚙️ **Low-Level & OS**: Focused on source tree refactoring, File-Based Encryption (FBE) layers, and system performance optimizations.
+
+---
+
+### 💻 Current Focus & Engineering Work
+
+- 🛠️ Maintaining and optimizing **crDroid Android** trees for Nothing Phone (2).
+- ⚡ Fine-tuning **Linux & Android Kernels** (compiler flags, schedulers, governors).
+- 🧹 Refactoring AOSP system framework code and interface components.
+- ☁️ Automating custom OS build pipelines and server environments.
 
 ---
 
@@ -32,17 +45,18 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🔧 Sources & Repositories
+### 📫 Connect & Links
 
-| Repository | Role | Link |
-| :--- | :--- | :--- |
-| **Device Tree** | Nothing Phone (2) (`pong`) | [crdroidandroid/android_device_nothing_Pong](https://github.com/crdroidandroid/android_device_nothing_Pong) |
-| **Kernel Source** | Snapdragon 8+ Gen 1 (`sm8475`) | [crdroidandroid/android_kernel_nothing_sm8475](https://github.com/crdroidandroid/android_kernel_nothing_sm8475) |
+<p align="center">
+  <a href="https://t.me/ediwq14"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/ediwq14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
