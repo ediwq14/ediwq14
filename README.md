@@ -9,12 +9,10 @@
     <a href="https://github.com/crdroidandroid"><img src="https://img.shields.io/badge/Nothing_Phone_(2)-pong-000000?style=for-the-badge&logo=nothing&logoColor=white" /></a>
   </p>
 
-  <!-- LICZNIK ODWIEDZIN -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ediwq14&color=1E88E5&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </p>
-
 </div>
+
+<!-- ANIMOWANA LINIA PODZIAŁU -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-8f2e-1e041f3e10a4.gif" width="100%" />
 
 <br />
 
@@ -25,7 +23,7 @@
 - 🐧 **Linux Enthusiast**: Deep diving into kernel schedulers, custom desktop configurations, and Arch Linux setups.
 - ⚙️ **Low-Level & OS**: Focused on source tree refactoring, File-Based Encryption (FBE) layers, and system performance optimizations.
 
----
+<br />
 
 ### 💻 Current Focus & Engineering Work
 
@@ -34,7 +32,12 @@
 - 🧹 Refactoring AOSP system framework code and interface components.
 - ☁️ Automating custom OS build pipelines and server environments.
 
----
+<br />
+
+<!-- ANIMOWANA LINIA PODZIAŁU -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-8f2e-1e041f3e10a4.gif" width="100%" />
+
+<br />
 
 ### 🛠️ Tech Stack & OS Environment
 
@@ -49,7 +52,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<br />
 
 ### 📫 Connect & Links
 
@@ -58,8 +61,11 @@
   <a href="https://github.com/ediwq14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<br />
 
+<!-- STOPKA Z ANIMACJĄ -->
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUGG4dbv5BLPP4PP/giphy.gif" width="120" />
+  <br />
   <sub>Built from source ⚙️ | Thanks for stopping by!</sub>
 </div>
