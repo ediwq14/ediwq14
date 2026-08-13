@@ -1,8 +1,9 @@
 <div align="center">
 
   <!-- ANIMOWANY KOT NA GÓRZE -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI5dW54dzdyNG0xZ2R6b3p1Zm9yeWRxM3M3MjBqZjRzNXp6bWtwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="140" />
+<img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/cat.gif" width="100" />
 
+  <!-- ELEGANCKI NAGŁÓWEK -->
   <!-- ELEGANCKI NAGŁÓWEK -->
   <h1>Hi there, I'm ediwq14 🐾</h1>
   <p><b>Android ROM/Kernel Developer & Linux Enthusiast</b></p>
