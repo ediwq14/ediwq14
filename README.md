@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ediwq14;Android+Kernel+%26+ROM+Developer;Official+crDroid+Maintainer+for+Nothing+Phone+(2);Arch+Linux+%26+Kernel+Tuning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Ediwq14;Android+Kernel+%26+ROM+Developer;Official+crDroid+Maintainer+for+Nothing+Phone+(2);Arch+Linux+%26+Kernel+Tuning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br />
